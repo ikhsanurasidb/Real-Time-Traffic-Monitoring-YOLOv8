@@ -1,0 +1,12 @@
+data/
+venv*/
+convert-video-to-image/
+TRAINING-DATASET*/
+test-code/
+*.pt
+*.pth
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
