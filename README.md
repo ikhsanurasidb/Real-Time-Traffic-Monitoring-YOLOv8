@@ -2,9 +2,14 @@
 
 Detect vehicles including cars, motorbikes, buses, and trucks. In the absence of an IP camera, a custom RTSP server is utilized to simulate the transmission of real-time video. RTSP, a standard protocol, is used for streaming video data from IP cameras.
 
-![SCR-20240603-hcpu](https://github.com/ikhsanurasidb/Real-Time-Traffic-Monitoring-YOLOv8/assets/151383202/4ffc59d6-7141-4bb4-a6f6-99f03c65e22b)
+![SCR-20240603-hjwc](https://github.com/ikhsanurasidb/Real-Time-Traffic-Monitoring-YOLOv8/assets/151383202/d07820ee-d104-464e-979b-83a8987da161)
 
 
+Libraries used:
+- Ultralytics
+- OpenCV
+- roboflow/supervision
+- roboflow/inference
 
 Functionality to draw lines at desired locations within the application to facilitate the counting of objects that intersect with these lines.
 
